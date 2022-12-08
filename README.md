@@ -1,15 +1,15 @@
 # exam_2420
 
 ## Q1
-sudo apt update
-sudo apt upgrade
+<p>sudo apt update</p>
+<p>sudo apt upgrade</p>
 
 ## Q2
-/1 to get to -eq 1; del to delete 1, i to insert 0; esc to normal mode
-/eco ; right arrow then insert an h; / to repeat cmd for the other 2 eco; esc to normal mode
-/V to get to [f|v|k]; del then insert C; / to repeat cmd, replace the other V with C
-/num to get to [numbs]; del then insert digit
-:wq to save and quit
+<p>/1 to get to -eq 1; del to delete 1, i to insert 0; esc to normal mode</p>
+<p>/eco ; right arrow then insert an h; / to repeat cmd for the other 2 eco; esc to normal mode</p>
+<p>/V to get to [f|v|k]; del then insert C; / to repeat cmd, replace the other V with C</p>
+<p>/num to get to [numbs]; del then insert digit</p>
+<p>:wq to save and quit</p>
 
 
 ![](/images/Q2.png)
