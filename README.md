@@ -48,7 +48,7 @@ sudo apt upgrade</p>
 
 ## Q6
 
-[](/images/q6timer.png)
+![](/images/q6timer.png)
 
     [Unit]
     Description=Timer to start find_user script when the system starts
